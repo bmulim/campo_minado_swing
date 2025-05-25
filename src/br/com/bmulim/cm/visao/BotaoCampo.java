@@ -1,16 +1,16 @@
-package br.com.cod3r.cm.visao;
+package br.com.bmulim.cm.visao;
 
 import javax.swing.BorderFactory;
 import javax.swing.JButton;
 import javax.swing.SwingUtilities;
 
+import br.com.bmulim.cm.modelo.Campo;
+import br.com.bmulim.cm.modelo.CampoEvento;
+import br.com.bmulim.cm.modelo.CampoObservador;
+
 import java.awt.Color;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
-
-import br.com.cod3r.cm.modelo.Campo;
-import br.com.cod3r.cm.modelo.CampoEvento;
-import br.com.cod3r.cm.modelo.CampoObservador;
 
 public class BotaoCampo extends JButton implements CampoObservador, MouseListener {
     private final Color BG_PADRAO = new Color(184, 184, 184, 255);

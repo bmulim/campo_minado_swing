@@ -1,4 +1,4 @@
-package br.com.cod3r.cm.modelo;
+package br.com.bmulim.cm.modelo;
 
 import java.util.ArrayList;
 import java.util.List;

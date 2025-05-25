@@ -1,8 +1,8 @@
-package br.com.cod3r.cm.visao;
+package br.com.bmulim.cm.visao;
 
 import javax.swing.JFrame;
 
-import br.com.cod3r.cm.modelo.Tabuleiro;
+import br.com.bmulim.cm.modelo.Tabuleiro;
 
 @SuppressWarnings("serial")
 public class TelaPrincipal extends JFrame{

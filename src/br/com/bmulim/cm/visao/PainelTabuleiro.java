@@ -1,4 +1,4 @@
-package br.com.cod3r.cm.visao;
+package br.com.bmulim.cm.visao;
 
 import java.awt.GridLayout;
 
@@ -6,7 +6,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.SwingUtilities;
 
-import br.com.cod3r.cm.modelo.Tabuleiro;
+import br.com.bmulim.cm.modelo.Tabuleiro;
 
 public class PainelTabuleiro extends JPanel{
 

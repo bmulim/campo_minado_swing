@@ -1,4 +1,4 @@
-package br.com.cod3r.cm.modelo;
+package br.com.bmulim.cm.modelo;
 
 @FunctionalInterface
 public interface CampoObservador {
